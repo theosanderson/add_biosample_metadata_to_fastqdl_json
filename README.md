@@ -1,5 +1,4 @@
 # add_biosample_metadata_to_fastqdl_json
-Adds biosample metadata from ENA to fastq-dl downloads
 
 
 [Fastq-dl](https://github.com/rpetit3/fastq-dl) is a great tool for downloading, for example, all the fastq files from a BioProject. It creates a file called `fastq-run-info.json` with information about each run.
